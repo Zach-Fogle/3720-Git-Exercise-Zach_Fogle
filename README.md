@@ -4,6 +4,7 @@ Repository used for '3720 Git Exercise' Assignment. Make sure you are signed in 
 
 <ins>Contributors List</ins>
 - cjacob5
+- jze
 - [Clemson Username Here]
 - levi
 - keenand
@@ -17,6 +18,7 @@ Repository used for '3720 Git Exercise' Assignment. Make sure you are signed in 
 | Clemson Username |    Git Username    | Group Number |
 | ---------------- | ------------------ | ------------ |
 | cjacob5          | christopher-jacobs | None         |
+|     jze          | JustinEllis03      |     8        |
 | levi             | LeviDy3r           | None         |
 | keenand          | kjdominick66       | 12           |
 | shivumd          | shivumd1           | 13           |
