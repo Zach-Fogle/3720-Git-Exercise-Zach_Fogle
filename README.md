@@ -5,11 +5,20 @@ Repository used for '3720 Git Exercise' Assignment. Make sure you are signed in 
 <ins>Contributors List</ins>
 - cjacob5
 - edang
+- gacoope
+- escasse
+- bjcarpe
+- balabau
 
 | Clemson Username |    Git Username    | Group Number |
 | ---------------- | ------------------ | ------------ |
 | cjacob5          | christopher-jacobs | None         |
 | edang            | edang2349          | 14           |
+| gacoope          | gacoope            | 9            |
+| escasse          | ethan-casselman    | 10           |
+| bjcarpe          | BJCarpe22          | 11           |
+| bbarre4          | brian-barrett-33   | Team 3       |
+| balabau          | balabau            | 3            |
 |                  |                    |              |
 |                  |                    |              |
 |                  |                    |              |
